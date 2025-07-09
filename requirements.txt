@@ -1,0 +1,13 @@
+# Grey Wolf Optimizer Dependencies
+
+# Core scientific computing library (required)
+numpy>=1.21.0
+
+# Message Passing Interface for parallel computing (optional)
+# Uncomment the line below if you want MPI parallelization support
+# mpi4py>=3.1.0
+
+# Note: mpi4py requires an MPI implementation to be installed on the system
+# For Windows, consider installing Microsoft MPI or Intel MPI
+# For Linux/macOS, consider OpenMPI or MPICH
+# The optimizer will work without MPI in serial mode
