@@ -1,4 +1,4 @@
-# opengreywolfoptimizer# Grey Wolf Optimizer with MPI (C++ & Python)
+# Grey Wolf Optimizer with MPI (C++ & Python)
 
 This repository contains two implementations of the Grey Wolf Optimizer (GWO) algorithm using MPI for parallelization:
 
@@ -36,3 +36,4 @@ Install Python dependencies with:
 
 ```bash
 pip install mpi4py numpy
+```
