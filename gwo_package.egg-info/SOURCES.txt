@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+gwo_package/__init__.py
+gwo_package.egg-info/PKG-INFO
+gwo_package.egg-info/SOURCES.txt
+gwo_package.egg-info/dependency_links.txt
+gwo_package.egg-info/top_level.txt

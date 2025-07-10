@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gwo-package"
+version = "0.1.0"
+description = "A Grey Wolf Optimizer (GWO) algorithm implemented in Python"
+authors = [
+  { name = "Vaibhav", email = "vaibhavgollapalli5@gmail.com" }
+]
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.7"
+dependencies = []
+
+
+
+[project.urls]
+Homepage = "https://github.com/yourusername/opengreywolfoptimizer"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["gwo_package"]
